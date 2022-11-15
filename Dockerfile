@@ -1,5 +1,5 @@
 # Start from Alpine Linux with Node 16 installed 
-FROM node:16-alpine3.5
+FROM node:16-alpine3.15
 
 # Create working directory
 WORKDIR /src/
